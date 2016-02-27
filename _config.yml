@@ -1,0 +1,28 @@
+name: Angels
+favicon: null
+layout_spectrum: 0.7130196157377213
+typography_spectrum: 0.9065880563575774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23917127680033445
+  lightness: 0.5378473049495369
+  saturation: 0.049837502650916576
+  rhythmicContrast: 0.788677427219227
+purpose: []
